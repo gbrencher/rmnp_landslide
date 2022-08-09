@@ -1,0 +1,15 @@
+name: isce2
+channels:
+  - conda-forge
+dependencies:
+  - python=3.6
+  - asf_search=3
+  - dask
+  - datashader
+  - geoviews
+  - hvplot
+  - isce2=2.5
+  - ipykernel
+  - rasterio
+  - rioxarray
+  - gdal
